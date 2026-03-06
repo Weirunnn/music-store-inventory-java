@@ -1,0 +1,4 @@
+ADD:Michael Jackson - BAD
+ADD:Chicago - Chicago II
+ADD:The Chills - Submarine Bells
+ADD:Fugees - The Score

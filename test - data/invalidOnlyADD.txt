@@ -1,0 +1,9 @@
+ADD:Michael Jackson - BAD
+hello
+ADD:hello
+qwertyuiop poiuytrewq
+ADD:Chicago - Chicago II
+ADD:The Chills - Submarine Bells
+ADD:Fugees - The Score
+this input is wrong
+artist name - album name
