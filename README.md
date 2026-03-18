@@ -1,64 +1,30 @@
-# Music Store Inventory System (Java)
+# Music Store Inventory System
 
-A Java command-line program that simulates a music store inventory system using a custom ArrayList implementation.
+## Overview
+This project is a Java-based inventory management system designed to manage product records and stock levels in a music store.
 
-The program processes transaction commands from input files to add, remove, and manage albums in the store's inventory.
+## Purpose
+The project demonstrates backend system design, structured data handling, and business logic implementation in a real-world scenario.
 
 ## Features
+- Add and manage inventory items
+- Update product information
+- Remove items from inventory
+- Track stock levels
+- Organize product records
 
-- Custom **ArrayList-based data structure**
-- Command-line inventory management
-- File-based transaction processing
-- Add and remove albums
-- Input validation for commands
-- Unit testing for core data structures
-
-## Technologies
-
+## Tech Stack
 - Java
 - Object-Oriented Programming
-- Custom Data Structures
-- File I/O
+- Data Structures
 
-## Project Structure
+## What I Learned
+- Backend logic implementation
+- System design for inventory management
+- Modular code organization
+- Handling structured data workflows
 
-src/
-Album.java  
-AlbumList.java  
-AlbumArrayList.java  
-ArrayListDB.java  
-
-tests/
-Test.java  
-TestAlbum.java  
-TestAlbumArrayList.java  
-TestAlbumArrayListDetails.java  
-
-test-data/
-history1.txt  
-history2.txt  
-history3.txt  
-
-docs/
-hw4description.pdf  
-
-## How to Run
-
-Compile the program:
-
-
-Run the program with a transaction file:
-
-
-## Example Commands
-
-The program reads commands from input files such as:
-
-
-These commands simulate operations on the music store inventory.
-
-## Author
-
-Weiran Zeng  
-Franklin & Marshall College  
-Computer Science / Data Science
+## Future Improvements
+- Integrate database (MySQL / PostgreSQL)
+- Add REST API layer
+- Build a simple frontend interface
