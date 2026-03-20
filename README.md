@@ -42,4 +42,4 @@ It provides a foundation for scalable and maintainable inventory systems.
 ---
 
 ## Author
-JC EXPRESS – AI, Data, Software & Automation Solutions
+J & C EXPRESS – AI, Data, Software & Automation Solutions
