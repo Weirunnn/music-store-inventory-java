@@ -1,30 +1,32 @@
-# Music Store Inventory System
+# Inventory Management System
 
 ## Overview
-This project is a Java-based inventory management system designed to manage product records and stock levels in a music store.
+A backend-focused inventory management system designed to handle product tracking, stock updates, and business logic for inventory operations.
 
-## Purpose
-The project demonstrates backend system design, structured data handling, and business logic implementation in a real-world scenario.
+This system demonstrates how structured backend logic can support real-world business workflows.
+
+---
 
 ## Features
-- Add and manage inventory items
-- Update product information
-- Remove items from inventory
-- Track stock levels
-- Organize product records
+- Product inventory tracking
+- Add, update, and remove items
+- Stock level management
+- Structured data handling using Java
+- Modular and scalable system design
+
+---
 
 ## Tech Stack
 - Java
-- Object-Oriented Programming
-- Data Structures
+- Object-Oriented Programming (OOP)
 
-## What I Learned
-- Backend logic implementation
-- System design for inventory management
-- Modular code organization
-- Handling structured data workflows
+---
 
-## Future Improvements
-- Integrate database (MySQL / PostgreSQL)
-- Add REST API layer
-- Build a simple frontend interface
+## Business Use Case
+This system can be applied in:
+- Retail inventory management
+- Warehouse tracking systems
+- Small business stock management
+- Backend logic for e-commerce platforms
+
+It provides a foundation for scalable and maintainable inventory systems.
