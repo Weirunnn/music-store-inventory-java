@@ -30,3 +30,16 @@ This system can be applied in:
 - Backend logic for e-commerce platforms
 
 It provides a foundation for scalable and maintainable inventory systems.
+
+---
+
+## Future Improvements
+- Integration with APIs or external services
+- Scalable architecture enhancements
+- Performance optimization
+- Deployment as a web-based application
+
+---
+
+## Author
+JC EXPRESS – AI, Data, Software & Automation Solutions
